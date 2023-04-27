@@ -3,7 +3,7 @@
 ![Before and after image processing](assets/before-and-after.png)
 
 ## Team Members
-- [Duncan](https://github.com/ruironggg)
+- [Ruirong (Duncan)](https://github.com/ruironggg)
 - [Sean](https://github.com/seancze)
 - [Justin](https://github.com/justintanyf)
 
